@@ -1,0 +1,144 @@
+.fullform{
+    margin: 0 auto 100px auto;
+    width: 640px;
+    text-align: left;
+      background: #fff;
+      border: 1px solid #ccc;
+      box-shadow: rgba(6, 6, 6, 0.2) 0px 0px 10px;
+  
+}
+#img{
+    margin: auto;
+    width: 640px;
+    height: 80px;
+    background-color: rgb(225, 223, 223);
+    
+}
+
+.formalign{
+    max-width: 600px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size: small;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.line{
+    border-bottom: 1px dotted gray;
+    padding-bottom: 15px;
+
+}
+
+.headings{
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.box{
+    display: flex;
+    /* padding-top: 5px; */
+    margin-bottom: 10px; 
+     margin-top:5px;
+}
+#first{
+    margin-right: 5px;
+}
+.border{
+    /* margin-top: 5px; */
+    margin-bottom: 10px;
+    border-top: 1px solid rgb(50, 49, 49);
+    border-right: 1px solid rgb(170, 168, 168);
+    border-bottom: 1px solid rgb(218, 214, 214);
+    border-left: 1px solid rgb(182, 180, 180);
+    height: 20px;
+}
+
+
+#mm{
+    width: 20px;
+    margin-right: 5px;
+}
+#dd{
+    width: 20px;
+    margin-right: 5px;
+}
+#yy{
+    width: 40px;
+}
+#grade{
+    width: 305px;
+    height: 22px;
+    border-top: 1px solid gray;
+    border-right: 1px solid gray;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+#schl{
+    width: 300px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  
+}
+#street{
+    width: 600px;
+}
+#nextadd{
+    width:600px;
+  
+}
+
+#add{
+    margin-right: 50px;
+    width:270px;
+}
+#state{
+    width:270px;
+}
+#country{
+    width: 275px;
+    height:22px;
+}
+#zip{
+    margin-right: 50px;
+    width: 270px;
+}
+#num{
+    width: 20px;
+    margin-right: 5px;
+  
+}
+#numx{
+    width:20px;
+    margin-right: 5px;
+  
+}
+#numy{
+    width: 30px;
+
+}
+#mail{
+    width: 275px;
+    margin-top: 10px;
+  
+}
+#para{
+    width: 600px;
+    height:150px;
+    margin-top:5px;
+    margin-bottom: 10px;}
+
+
+#light{
+    font-weight:100;
+}
+#lightch{
+    font-weight: 100;
+}
+#lightp{
+    font-weight: 100;
+}
+#med{
+    font-weight: 100;
+}
